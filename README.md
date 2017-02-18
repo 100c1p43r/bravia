@@ -1,0 +1,1 @@
+Basic scripts for running Sony Bravia TV remote commands. You will need send_command.sh file from https://github.com/breunigs/bravia-auth-and-remote repository to run them and wakeonlan package, which can be easily installed with apt-get install wakeonlan on your Ubuntu system.
